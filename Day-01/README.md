@@ -27,9 +27,33 @@ Practiced:
 * Factorial
 * Basic problem solving
 
+## 📐 Mathematics
+
+### Thomas' Calculus
+
+Completed:
+
+* Chapter 1
+* Chapter 2
+* Practice problems from both chapters
+
+Focus areas included building fundamentals in calculus and mathematical problem solving.
+
+## 🧠 Quantitative Problem Solving
+
+Practiced brain teasers from **Heard on The Street** to develop:
+
+* Logical reasoning
+* Mathematical thinking
+* Probability intuition
+* Problem-solving speed
+* Quant interview thinking
+
 ## 📈 Quant Connection
 
-Started using Python to work with financial data and calculate stock returns.
+Started connecting programming, mathematics and finance.
+
+Used Python to work with financial data and calculate stock returns.
 
 ### Stock Return Formula
 
@@ -37,8 +61,12 @@ Started using Python to work with financial data and calculate stock returns.
 
 ## ✅ Day 1 Status
 
-Completed.
+**Completed**
+
+### Day 1 Learning Stack
+
+**Finance + Python + Calculus + Quantitative Problem Solving**
 
 ## 🎯 Next
 
-Continue Python fundamentals, DSA and quantitative finance.
+Continue building Python and mathematical foundations for quantitative trading, quantitative research and quantitative development.
